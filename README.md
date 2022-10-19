@@ -15,9 +15,14 @@ https://user-images.githubusercontent.com/100802000/196787444-47aac0e8-5d35-4f7b
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+
 <h2>Development Setup</h2>
 <p><b>macOS</b>:</p>
 
 ```
 python3 game.py
 ```
+<h2>Reference</h2>
+
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+<p>https://www.youtube.com/watch?v=8ext9G7xspg&t=3601s</p>
